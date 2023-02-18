@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "JE+5OyD0c9i5tXXh6Z2+IV1r9JoPrRRu3RRrd+FRJgk7p62y5rfXqxlxG0awz7bYm6UNwg5vMfpIdFHJ48p6tw==",
+  "dgSpecHash": "cjLrBUqzTvaH1Ly7x6hDMyaul62GWaXaK5WDM5HULO+JKHq9c3SjJtE8HkepzPXJKfWp4K1WPNLJLvZO0sr+Sw==",
   "success": true,
   "projectFilePath": "/Users/davidlatham/Documents/Computer Science/Chapter_1/turbo-waffle/FirstApp/FirstApp.csproj",
   "expectedPackageFiles": [
@@ -31,7 +31,7 @@
     "/Users/davidlatham/.nuget/packages/system.io.pipelines/7.0.0/system.io.pipelines.7.0.0.nupkg.sha512",
     "/Users/davidlatham/.nuget/packages/system.text.encodings.web/7.0.0/system.text.encodings.web.7.0.0.nupkg.sha512",
     "/Users/davidlatham/.nuget/packages/system.text.json/7.0.0/system.text.json.7.0.0.nupkg.sha512",
-    "/Users/davidlatham/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/7.0.0/microsoft.netcore.app.runtime.mono.browser-wasm.7.0.0.nupkg.sha512"
+    "/Users/davidlatham/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/7.0.1/microsoft.netcore.app.runtime.mono.browser-wasm.7.0.1.nupkg.sha512"
   ],
   "logs": []
 }
