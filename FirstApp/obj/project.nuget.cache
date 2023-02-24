@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "cjLrBUqzTvaH1Ly7x6hDMyaul62GWaXaK5WDM5HULO+JKHq9c3SjJtE8HkepzPXJKfWp4K1WPNLJLvZO0sr+Sw==",
+  "dgSpecHash": "CaumfmbdcveVf3Z+35bWXpxeOMVu/xr8eWI+zBDSx+dhESV2LgIkm0/rlA0s1kEE4qobxV5u7ZGmezo2rT22dQ==",
   "success": true,
   "projectFilePath": "/Users/davidlatham/Documents/Computer Science/Chapter_1/turbo-waffle/FirstApp/FirstApp.csproj",
   "expectedPackageFiles": [
@@ -22,6 +22,7 @@
     "/Users/davidlatham/.nuget/packages/microsoft.extensions.fileproviders.abstractions/7.0.0/microsoft.extensions.fileproviders.abstractions.7.0.0.nupkg.sha512",
     "/Users/davidlatham/.nuget/packages/microsoft.extensions.fileproviders.physical/7.0.0/microsoft.extensions.fileproviders.physical.7.0.0.nupkg.sha512",
     "/Users/davidlatham/.nuget/packages/microsoft.extensions.filesystemglobbing/7.0.0/microsoft.extensions.filesystemglobbing.7.0.0.nupkg.sha512",
+    "/Users/davidlatham/.nuget/packages/microsoft.extensions.http/7.0.0/microsoft.extensions.http.7.0.0.nupkg.sha512",
     "/Users/davidlatham/.nuget/packages/microsoft.extensions.logging/7.0.0/microsoft.extensions.logging.7.0.0.nupkg.sha512",
     "/Users/davidlatham/.nuget/packages/microsoft.extensions.logging.abstractions/7.0.0/microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
     "/Users/davidlatham/.nuget/packages/microsoft.extensions.options/7.0.0/microsoft.extensions.options.7.0.0.nupkg.sha512",

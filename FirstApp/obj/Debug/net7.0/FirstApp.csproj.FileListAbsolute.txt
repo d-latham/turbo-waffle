@@ -826,3 +826,7 @@
 /Users/davidlatham/Documents/Computer Science/Chapter_1/turbo-waffle/FirstApp/obj/Debug/net7.0/build-gz/GUDJmZ0a.gz
 /Users/davidlatham/Documents/Computer Science/Chapter_1/turbo-waffle/FirstApp/obj/Debug/net7.0/build-gz/h+XWJ3sy.gz
 /Users/davidlatham/Documents/Computer Science/Chapter_1/turbo-waffle/FirstApp/obj/Debug/net7.0/build-gz/54RBk4PG.gz
+/Users/davidlatham/Documents/Computer Science/Chapter_1/turbo-waffle/FirstApp/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.Http.dll
+/Users/davidlatham/Documents/Computer Science/Chapter_1/turbo-waffle/FirstApp/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.Http.dll.gz
+/Users/davidlatham/Documents/Computer Science/Chapter_1/turbo-waffle/FirstApp/bin/Debug/net7.0/Microsoft.Extensions.Http.dll
+/Users/davidlatham/Documents/Computer Science/Chapter_1/turbo-waffle/FirstApp/obj/Debug/net7.0/build-gz/y5wJjQs8.gz

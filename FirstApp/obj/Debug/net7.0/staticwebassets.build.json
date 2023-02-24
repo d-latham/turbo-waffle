@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "S5+wz3hiZsZh/DvzkSIZ3amb20zS71VlZHq6r9cWJbU=",
+  "Hash": "ey7xA38mrJrZl2X12SIgsGyEwFKHEdCVdqigxFxgRy8=",
   "Source": "FirstApp",
   "BasePath": "/",
   "Mode": "Root",
@@ -491,6 +491,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/davidlatham/.nuget/packages/microsoft.extensions.filesystemglobbing/7.0.0/lib/net7.0/Microsoft.Extensions.FileSystemGlobbing.dll"
+    },
+    {
+      "Identity": "/Users/davidlatham/Documents/Computer Science/Chapter_1/turbo-waffle/FirstApp/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.Http.dll",
+      "SourceId": "FirstApp",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/davidlatham/Documents/Computer Science/Chapter_1/turbo-waffle/FirstApp/bin/Debug/net7.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Http.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/Users/davidlatham/.nuget/packages/microsoft.extensions.http/7.0.0/lib/net7.0/Microsoft.Extensions.Http.dll"
     },
     {
       "Identity": "/Users/davidlatham/Documents/Computer Science/Chapter_1/turbo-waffle/FirstApp/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.Logging.Abstractions.dll",
@@ -6696,6 +6713,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/davidlatham/Documents/Computer Science/Chapter_1/turbo-waffle/FirstApp/bin/Debug/net7.0/wwwroot/_framework/System.Net.dll"
+    },
+    {
+      "Identity": "/Users/davidlatham/Documents/Computer Science/Chapter_1/turbo-waffle/FirstApp/obj/Debug/net7.0/build-gz/y5wJjQs8.gz",
+      "SourceId": "FirstApp",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/davidlatham/Documents/Computer Science/Chapter_1/turbo-waffle/FirstApp/bin/Debug/net7.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Http.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "/Users/davidlatham/Documents/Computer Science/Chapter_1/turbo-waffle/FirstApp/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.Http.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/Users/davidlatham/Documents/Computer Science/Chapter_1/turbo-waffle/FirstApp/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.Http.dll"
     },
     {
       "Identity": "/Users/davidlatham/Documents/Computer Science/Chapter_1/turbo-waffle/FirstApp/obj/Debug/net7.0/build-gz/YI22YzFB.gz",
